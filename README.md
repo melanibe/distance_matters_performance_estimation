@@ -1,6 +1,6 @@
 # [Distance matters for improving performance estimation under covariate shift](tbd)
 [Mélanie Roschewitz](melanibe.github.io) & [Ben Glocker](http://wp.doc.ic.ac.uk/bglocker/). </br>
-Accepted at [ICCV - Workshop on Uncertainty Estimation 2023](https://uncv2023.github.io/).
+Accepted at [ICCV - Workshop on Uncertainty Quantification for Computer Vision 2023](https://uncv2023.github.io/).
 
 
 
