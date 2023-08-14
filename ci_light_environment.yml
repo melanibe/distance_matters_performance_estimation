@@ -1,0 +1,26 @@
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - pip=22.2.2
+  - python=3.10.6
+  - pytorch=1.13.0
+  - torchvision=0.14.0
+  - pip:
+    - pytest
+    - flake8
+    - jupyter
+    - numpy
+    - notebook
+    - scikit-learn
+    - matplotlib
+    - seaborn
+    - pytorch_lightning==1.7.7
+    - yacs
+    - pandas
+    - scikit_image
+    - wilds
+    - medmnist
+    - timm
+    - lightning-bolts
+    - git+https://github.com/MadryLab/robustness

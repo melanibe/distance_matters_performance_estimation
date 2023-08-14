@@ -1,0 +1,12 @@
+seed: [11, 22, 33]
+run_name: wd1e3
+model_name: "resnet18"
+
+training:
+  num_epochs: 200
+  patience_for_scheduler: 10
+  lr: 1e-4
+  metric_to_monitor: "Val/Accuracy"
+  val_check_interval: 1500
+  weight_decay: 1e-3
+

@@ -1,0 +1,5 @@
+augmentations:
+  random_rotation: 15
+  horizontal_flip: True
+  vertical_flip: True
+  resize: (256, 256)

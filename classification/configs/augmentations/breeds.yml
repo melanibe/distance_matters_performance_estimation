@@ -1,0 +1,5 @@
+augmentations:
+  horizontal_flip: True
+  random_color_jitter: 0.1
+  random_crop: (0.08, 1.0)
+  resize: (224, 224)

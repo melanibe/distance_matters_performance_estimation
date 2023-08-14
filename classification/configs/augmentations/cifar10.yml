@@ -1,0 +1,7 @@
+augmentations:
+  random_rotation: 20
+  horizontal_flip: True
+  random_color_jitter: 0.3
+  random_crop: (0.9, 1.0)
+  resize: 32
+  normalize: [[0.4914, 0.4822, 0.4465], [0.2023, 0.1994, 0.2010]]

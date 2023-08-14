@@ -1,0 +1,10 @@
+seed: [11, 22, 33]
+run_name: baseline
+model_name: "densenet121"
+
+training:
+  num_epochs: 200
+  patience_for_scheduler: 10
+  lr: 1e-4
+  metric_to_monitor: "Val/Accuracy"
+  use_training_augmentations: True
