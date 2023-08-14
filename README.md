@@ -9,7 +9,7 @@ Performance estimation under covariate shift is a crucial component of safe AI m
 
 
 <p align="center">
-<img src="figure1.png" alt="figure_1" width="300">
+<img src="figure1.png" alt="figure_1" width="500">
 </p>
 
 This repository contains all the necessary code to reproduce our model evaluation, training and plots. Paper can be found [here](tbd).
