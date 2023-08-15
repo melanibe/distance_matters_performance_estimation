@@ -1,4 +1,4 @@
-# [Distance matters for improving performance estimation under covariate shift](tbd)
+# [Distance matters for improving performance estimation under covariate shift](https://arxiv.org/abs/2308.07223)
 [Mélanie Roschewitz](melanibe.github.io) & [Ben Glocker](http://wp.doc.ic.ac.uk/bglocker/). </br>
 Accepted at [ICCV - Workshop on Uncertainty Quantification for Computer Vision 2023](https://uncv2023.github.io/).
 
@@ -12,7 +12,7 @@ Performance estimation under covariate shift is a crucial component of safe AI m
 <img src="figure1.png" alt="figure_1" width="500">
 </p>
 
-This repository contains all the necessary code to reproduce our model evaluation, training and plots. Paper can be found [here](tbd).
+This repository contains all the necessary code to reproduce our model evaluation, training and plots. Paper can be found [here](https://arxiv.org/abs/2308.07223).
 
 ## Overview
 The repository is divided into the following sub-folders:
