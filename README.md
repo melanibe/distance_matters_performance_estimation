@@ -3,6 +3,16 @@
 Accepted at [ICCV - Workshop on Uncertainty Quantification for Computer Vision 2023](https://uncv2023.github.io/).
 
 
+If you like this repository, please consider citing our work 
+```
+@inproceedings{roschewitz2023distance,
+  title={Distance Matters For Improving Performance Estimation Under Covariate Shift},
+  author={Roschewitz, M{\'e}lanie and Glocker, Ben},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
+  pages={4549--4559},
+  year={2023}
+}
+```
 
 **Abstract**
 Performance estimation under covariate shift is a crucial component of safe AI model deployment, especially for sensitive use-cases. Recently, several solutions were proposed to tackle this problem, most leveraging model predictions or softmax confidence to derive accuracy estimates. However, under dataset shifts confidence scores may become ill-calibrated if samples are too far from the training distribution. In this work, we show that taking into account distances of test samples to their expected training distribution can significantly improve performance estimation under covariate shift. Precisely, we introduce a "distance-check" to flag samples that lie too far from the expected distribution, to avoid relying on their untrustworthy model outputs in the accuracy estimation step. We demonstrate the effectiveness of this method on 13 image classification tasks, across a wide-range of natural and synthetic distribution shifts and hundreds of models.
