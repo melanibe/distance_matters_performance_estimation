@@ -1,10 +1,10 @@
 # Distance matters for improving performance estimation under covariate shift
 
 Presented at ICCV - Workshop on Uncertainty Quantification for Computer Vision 2023. </br>
-Link to [paper](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/papers/Roschewitz_Distance_Matters_For_Improving_Performance_Estimation_Under_Covariate_Shift_ICCVW_2023_paper.pdf)
+Link to [paper](https://openaccess.thecvf.com/content/ICCV2023W/UnCV/papers/Roschewitz_Distance_Matters_For_Improving_Performance_Estimation_Under_Covariate_Shift_ICCVW_2023_paper.pdf).</br>
+This repository contains all the necessary code to reproduce our model evaluation, training and plots.
 
-
-If you like this repository, please consider citing our work 
+Paper reference:
 ```
 @inproceedings{roschewitz2023distance,
   title={Distance Matters For Improving Performance Estimation Under Covariate Shift},
@@ -23,7 +23,7 @@ Performance estimation under covariate shift is a crucial component of safe AI m
 <img src="figure1.png" alt="figure_1" width="500">
 </p>
 
-This repository contains all the necessary code to reproduce our model evaluation, training and plots. Paper can be found [here](https://arxiv.org/abs/2308.07223).
+
 
 ## Overview
 The repository is divided into the following sub-folders:
